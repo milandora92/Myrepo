@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[No of rows in TestCases sheet are:4  No of rows in TestSteps sheet are:10]]>
+    </line>
+    <line>
+      <![CDATA[Successfully logged in to the application    http://primusbank.qedgetech.com/adminflow.aspx     adminflow]]>
+    </line>
+    <line>
+      <![CDATA[Logout Successful]]>
+    </line>
+    <line>
+      <![CDATA[No test cases to execute]]>
+    </line>
+    <line>
+      <![CDATA[No test cases to execute]]>
+    </line>
+    <line>
+      <![CDATA[No test cases to execute]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-03-07T23:43:05 PST" name="Default suite" finished-at="2023-03-07T23:43:07 PST" duration-ms="2343">
+    <groups>
+    </groups>
+    <test started-at="2023-03-07T23:43:05 PST" name="Default test" finished-at="2023-03-07T23:43:07 PST" duration-ms="2343">
+      <class name="driver_factory.primus_bank">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:driver_factory.primus_bank@48bb62]" started-at="2023-03-07T23:43:01 PST" name="Setup" finished-at="2023-03-07T23:43:05 PST" duration-ms="3642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="driver_script()[pri:0, instance:driver_factory.primus_bank@48bb62]" started-at="2023-03-07T23:43:05 PST" name="driver_script" finished-at="2023-03-07T23:43:07 PST" duration-ms="2314" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[No of rows in TestCases sheet are:4  No of rows in TestSteps sheet are:10]]>
+            </line>
+            <line>
+              <![CDATA[Successfully logged in to the application    http://primusbank.qedgetech.com/adminflow.aspx     adminflow]]>
+            </line>
+            <line>
+              <![CDATA[Logout Successful]]>
+            </line>
+            <line>
+              <![CDATA[No test cases to execute]]>
+            </line>
+            <line>
+              <![CDATA[No test cases to execute]]>
+            </line>
+            <line>
+              <![CDATA[No test cases to execute]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- driver_script -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:driver_factory.primus_bank@48bb62]" started-at="2023-03-07T23:43:07 PST" name="teardown" finished-at="2023-03-07T23:43:24 PST" duration-ms="16216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- driver_factory.primus_bank -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
